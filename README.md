@@ -1,2 +1,2 @@
 # Taman Bibit
-Resource for website Taman Bibit
+Image resource for website Taman Bibit
